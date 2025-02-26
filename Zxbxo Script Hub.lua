@@ -4,4 +4,4 @@ pcall(function()
         warn("stop using this on dh this not have ac bypass.")
     end
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/ZxBxo-Script/refs/heads/main/New%20Ui.lua"))()
+loadstring(game:HttpGet("https://doitenroi.vercel.app/script/zxbxo.lua"))()
